@@ -1,0 +1,31 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(26, 29, 30);
+    background-color: azure;
+
+}
+
+img{
+    width: 250px;
+    height: auto;
+
+}
+nav ul{
+    display: inline;
+    margin-right: 16px;
+}
+
+
+
+
+
+footer{
+    background-color: rgb(10, 104, 125);
+    color: aliceblue;
+    font-size: 12px;
+    padding-top: 16px;
+    padding-left: 24px;
+    padding-right: 16px;
+    padding-bottom: 16px;
+   
+    }
